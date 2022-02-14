@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rJk3r
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python/JAVA/React/JS/C++
 - 💞️ I’m looking to create exploits?
 
 <!---
