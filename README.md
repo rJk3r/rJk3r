@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rJk3r
 - 👀 I’m interested in IT (DevOps/Base programming with C++)
-- 🌱 I’m currently learning React/C++
+- 🌱 I’m currently learning (React/C++/C# And all what i need)
 - 💞️ I’m looking to create exploits?
 
 <!---
